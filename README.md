@@ -5,6 +5,7 @@ Welcome to my personal repository of useful notes! This repository is a collecti
 ## Contents
 
 - `git_commands.md`: A comprehensive guide on essential Git commands, tailored for effective collaboration in software development projects.
+- `Swift_UI_cheatsheet.md`: guide for Swift UI and basic concepts
 
 ## How to Use This Repository
 
